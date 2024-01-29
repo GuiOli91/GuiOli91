@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 <!--
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=GuiOli91&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+-->
+<!--
 **GuiOli91/GuiOli91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
